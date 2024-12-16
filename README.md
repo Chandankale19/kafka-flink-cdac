@@ -1,2 +1,2 @@
-# kafka-flink-cdac
-Project of Streming data pipeline using Kafka and Flink
+# Project of Streming data pipeline using Kafka and Flink
+
